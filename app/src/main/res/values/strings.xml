@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Singularium</string>
+    <string name="username">pgcool33</string>
+    <string name="password">password</string>
+    <string name="heading">Singularium Technologies</string>
+    <string name="hint_username">e.g. pgcool33</string>
+    <string name="hint_password">e.g. password</string>
+    <string name="signIn">Sign in</string>
+    <string name="imageContentDescription">Image for API extraction</string>
+    <string name="extractionHint">Extracted text from image goes here</string>
+</resources>
